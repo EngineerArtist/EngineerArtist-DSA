@@ -1884,6 +1884,7 @@ refer algo.monster
 ---
 
 ## 10. Theme ==> Binary Search
+MUST PRACTICE SET: https://www.geeksforgeeks.org/dsa/most-asked-binary-search-interview-questions/
 
 ### TYPE1 == Sorted Input
 
